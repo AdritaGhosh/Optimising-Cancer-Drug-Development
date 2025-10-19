@@ -12,8 +12,8 @@ The model integrates Quantitative Structure-Activity Relationship (QSAR) feature
 * Transfer learning for cross-dataset generalisation
 ## Methodology
 * Data Acquisition & Preprocessing
-- High-quality cancer compound datasets (Antagonist & Viability)
-- Molecular descriptors generated via RDKit
+   High-quality cancer compound datasets (Antagonist & Viability)
+   Molecular descriptors generated via RDKit
 * Feature Engineering
 - Novel attributes: PAE (Potential Adverse Event), ADVERSE EVENT, Lipinski’s RO5 compliance
 * Model Development
