@@ -47,7 +47,7 @@ It includes chemical compounds tested for endocrine-disrupting (Aromatase inhibi
 * Compound purity ratings and efficacy metrics
 * Pharmacokinetic and concentration-response data
 ### Download source:
-[Tox21 Data at NIH](https://tripod.nih.gov/tox21/pubdata/)
+[Tox21 Data at NIH](https://tripod.nih.gov/tox21/pubdata/)<br>
 License: Public domain (U.S. Federal data; unrestricted academic use)
 ### Dataset Usage
 All datasets were:
@@ -57,6 +57,6 @@ All datasets were:
 * Scaled and label-encoded for use in ensemble learning pipelines.
 
 ## License
-This is my MSc Data Science dissertation project completed at Nottingham Trent University (NTU) in 2024. The research, models, and code are made available solely for academic, educational, and non-commercial research purposes.
+This is my MSc Data Science dissertation project completed at Nottingham Trent University (NTU) in 2024. The research, models, and code are made available solely for academic, educational, and non-commercial research purposes.<br>
 For inquiries or collaboration requests, please contact via the repository’s issue tracker or email listed in the project documentation.
 
