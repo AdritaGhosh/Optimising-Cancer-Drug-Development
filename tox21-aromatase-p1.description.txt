@@ -1,0 +1,32 @@
+qHTS assay to identify aromatase inhibitors
+U.S. Tox21 Program
+
+National Center for Advancing Translational Sciences [NCATS]
+NIH Chemical Genomics Center [NCGC]
+U.S. Environmental Protection Agency [EPA]
+National Institutes of Environmental Health Sciences [NIEHS]
+National Toxicology Program [NTP]
+U.S. Food and Drug Administration [FDA]
+
+Tox21 Assay Overview:
+
+Endocrine disrupting chemicals (EDCs) interfere with the biosynthesis and normal functions of steroid hormones including estrogen and androgen in the body. Aromatase catalyzes the conversion of androgen to estrogen and plays a key role in maintaining the androgen and estrogen balance in many of the EDC-sensitive organs. MCF-7 aro ERE cell line (provided by Dr. Shiuan Chen at Beckman Research Institute of the City of Hope) was used to screen the Tox21 10K compound library collection for identification of aromatase inhibitors. MCF-7 aro ERE is human breast carcinoma cell line that was stably transfected with a promoter plasmid, pGL3-Luc, containing three repeats of estrogen responsive element (ERE).
+Tox21 Assay Protocol Summary:
+
+MCF-7 aro ERE cells were cultured in assay medium (Phenol red-free MEM containing 10% charcoal stripped FBS) two days prior to the assay. The cells were dispensed at 1,500 cells/4 uL/well into white wall/solid-bottom 1536-well plates using a Multidrop Combi (ThermoFisher Scientific, Waltham, MA) dispenser. After the assay plates were incubated at 37C and 5% CO2 for 5 h, 23 nL of compounds dissolved in DMSO, positive controls or DMSO only was transferred to the assay plate by a Pintool station (Kalypsys, San Diego, CA), followed by addition of 1 uL of Testosterone (0.5 nM, final concentration in the wells) using a Bioraptr Flying Reagent Dispenser (FRD) workstation (Beckman Coulter, Indianapolis, IN). The plates were incubated at 37C and 5% CO2 for 24 h. After the plates were incubated at 37C and 5% CO2 for 23.5 h, 1 uL of CellTiter-Fluor reagent (Promega, Madison, WI) of measuring cytotoxicity was added using a Bioraptr FRD workstation. The assay plates were incubated at 37C and 5% CO2 for additional 30 min and the fluorescence intensity was quantified by a ViewLux plate reader (PerkinElmer, Shelton, CT). For measuring luciferase reporter gene activity, 4 uL of ONE-Glo reagent (Promega) was added to each plate using a Bioraptr FRD and luminescence was quantified on a ViewLux (PerkinElmer) plate reader after 30 min incubation at room temperature.
+qHTS assay to identify aromatase inhibitors - cell viability counter screen
+U.S. Tox21 Program
+
+National Center for Advancing Translational Sciences [NCATS]
+NIH Chemical Genomics Center [NCGC]
+U.S. Environmental Protection Agency [EPA]
+National Institutes of Environmental Health Sciences [NIEHS]
+National Toxicology Program [NTP]
+U.S. Food and Drug Administration [FDA]
+
+Tox21 Assay Overview:
+
+Endocrine disrupting chemicals (EDCs) interfere with the biosynthesis and normal functions of steroid hormones including estrogen and androgen in the body. Aromatase catalyzes the conversion of androgen to estrogen and plays a key role in maintaining the androgen and estrogen balance in many of the EDC-sensitive organs. MCF-7 aro ERE cell line (provided by Dr. Shiuan Chen at Beckman Research Institute of the City of Hope) was used to screen the Tox21 10K compound library collection for identification of aromatase inhibitors. MCF-7 aro ERE is human breast carcinoma cell line that was stably transfected with a promoter plasmid, pGL3-Luc, containing three repeats of estrogen responsive element (ERE). The cytotoxicity of the Tox21 compound library against the MCF-7 aro ERE cell line was tested in parallel by measuring the cell viability using CellTiter-Fluor assay (Promega, Madison, WI) in the same wells.
+Tox21 Assay Protocol Summary:
+
+MCF-7 aro ERE cells were cultured in assay medium (Phenol red-free MEM containing 10% charcoal stripped FBS) two days prior to the assay. The cells were dispensed at 1,500 cells/4 uL/well into white wall/solid-bottom 1536-well plates using a Multidrop Combi (ThermoFisher Scientific, Waltham, MA) dispenser. After the assay plates were incubated at 37C and 5% CO2 for 5 h, 23 nL of compounds dissolved in DMSO, positive controls or DMSO only was transferred to the assay plate by a Pintool station (Kalypsys, San Diego, CA), followed by addition of 1 uL of Testosterone (0.5 nM, final concentration in the wells) using a Bioraptr Flying Reagent Dispenser (FRD) workstation (Beckman Coulter, Indianapolis, IN). The plates were incubated at 37C and 5% CO2 for 24 h. After the plates were incubated at 37C and 5% CO2 for 23.5 h, 1 uL of CellTiter-Fluor reagent (Promega, Madison, WI) of measuring cytotoxicity was added using a Bioraptr FRD workstation. The assay plates were incubated at 37C and 5% CO2 for additional 30 min and the fluorescence intensity was quantified by a ViewLux plate reader (PerkinElmer, Shelton, CT).
