@@ -3,12 +3,8 @@ This project applies Machine Learning (ML) to enhance cancer drug discovery by p
 ## Design of New Ideas and Approach
 A new ML-QSAR hybrid framework is proposed, combining molecular descriptors from SMILES data, ensemble learning, and transfer learning for robust safety and efficacy prediction.
 Key steps include:
-
-Generating domain-specific features (PAE, Class, Adverse Event)
-
-Dataset segmentation (Antagonist and Viability subsets)
-
-Model training (Random Forest, XGBoost, MLP)
-
-Ensemble stacking and transfer learning for generalization
+* Generating domain-specific features (PAE, Class, Adverse Event)
+* Dataset segmentation (Antagonist and Viability subsets)
+* Model training (Random Forest, XGBoost, MLP)
+* Ensemble stacking and transfer learning for generalization
 Ethical and legal compliance (GDPR, HIPAA) is emphasized along with commercial scalability and reliability.
