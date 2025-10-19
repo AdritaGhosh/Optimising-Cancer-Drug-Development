@@ -15,11 +15,11 @@ The model integrates Quantitative Structure-Activity Relationship (QSAR) feature
   - High-quality cancer compound datasets (Antagonist & Viability)
   - Molecular descriptors generated via RDKit
 * Feature Engineering
-- Novel attributes: PAE (Potential Adverse Event), ADVERSE EVENT, Lipinski’s RO5 compliance
+  - Novel attributes: PAE (Potential Adverse Event), ADVERSE EVENT, Lipinski’s RO5 compliance
 * Model Development
-- ML methods: Random Forest, Gradient Boosting, XGBoost, Neural Networks
-- Ensemble stacking & DNN integration
+  - ML methods: Random Forest, Gradient Boosting, XGBoost, Neural Networks
+  - Ensemble stacking & DNN integration
 * Transfer Learning
-- Adaptation to new datasets for enhanced model generalization
+  - Adaptation to new datasets for enhanced model generalization
 * Evaluation
-- Metrics: Accuracy, F1-score, Precision, Recall, ROC-AUC
+  - Metrics: Accuracy, F1-score, Precision, Recall, ROC-AUC
