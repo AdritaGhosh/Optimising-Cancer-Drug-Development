@@ -16,3 +16,11 @@ Process pipeline:
 * Ensemble and Deep Neural Network (DNN) – stacking best models into a unified safety predictor
 * Transfer Learning – adapting the pre-trained model to new Viability datasets
 Despite technical challenges (e.g., data imbalance, computational load), optimized solutions achieved highly accurate and reproducible results.
+## Evaluation
+Evaluation focuses on model performance:
+* Ensemble learning achieved 99.69% accuracy.
+* Transfer learning achieved 99.90% accuracy.
+* AUC = 0.99, confirming strong predictive capability.
+The top lead compounds identified include Oxymetholone and Azoxystrobin, both showing high efficacy and no adverse effects.
+Minor limitations include class imbalance (difficulty recognizing rare adverse events) and potential overfitting in regression models.
+## Conclusions and Future Work
