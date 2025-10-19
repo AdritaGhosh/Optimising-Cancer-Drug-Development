@@ -8,3 +8,11 @@ Key steps include:
 * Model training (Random Forest, XGBoost, MLP)
 * Ensemble stacking and transfer learning for generalization
 Ethical and legal compliance (GDPR, HIPAA) is emphasized along with commercial scalability and reliability.
+## Implementation
+Process pipeline:
+* Data Preprocessing – cleaning, encoding, and scaling features
+* Feature Engineering – creating and encoding molecular descriptors and safety markers
+* Model Development – training classification/regression models with cross-validation
+* Ensemble and Deep Neural Network (DNN) – stacking best models into a unified safety predictor
+* Transfer Learning – adapting the pre-trained model to new Viability datasets
+Despite technical challenges (e.g., data imbalance, computational load), optimized solutions achieved highly accurate and reproducible results.
