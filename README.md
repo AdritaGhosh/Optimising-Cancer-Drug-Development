@@ -58,5 +58,5 @@ All datasets were:
 
 ## License
 This is my MSc Data Science dissertation project completed at Nottingham Trent University (NTU) in 2024. The research, models, and code are made available solely for academic, educational, and non-commercial research purposes.<br>
-For inquiries or collaboration requests, please contact via the repository’s issue tracker or email listed in the project documentation.
+For inquiries or collaboration requests, please contact via email listed in the project documentation.
 
