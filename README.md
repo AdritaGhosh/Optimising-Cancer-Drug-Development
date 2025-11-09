@@ -4,7 +4,8 @@ The project combines QSAR modeling, ensemble learning, and transfer learning to 
 ## Overview
 Traditional cancer drug discovery is slow, expensive, and has a low success rate.
 This project applies Machine Learning (ML) to accelerate early-stage research by predicting potential adverse events (AEs) in candidate molecules before clinical testing.<br>
-The model integrates Quantitative Structure-Activity Relationship (QSAR) features, large molecular datasets, and state-of-the-art ML techniques (Random Forest, XGBoost, Deep Neural Networks) to produce reliable toxicity and efficacy predictions. Details about this project are written in my Medium [article](https://medium.com/@adrita21/application-of-machine-learning-for-optimising-cancer-drug-development-3d16e9e17670).
+The model integrates Quantitative Structure-Activity Relationship (QSAR) features, large molecular datasets, and state-of-the-art ML techniques (Random Forest, XGBoost, Deep Neural Networks) to produce reliable toxicity and efficacy predictions.<br>
+Details about this project are written in my Medium [article](https://medium.com/@adrita21/application-of-machine-learning-for-optimising-cancer-drug-development-3d16e9e17670).
 ## Features
 * Automated feature generation using SMILES molecular notation
 * QSAR-based drug activity and safety prediction
